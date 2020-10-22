@@ -3,9 +3,12 @@ This Repository is created for a Hackathon named Conception by Computer Engineer
 - A simple tool to generate multi images from a **Image Template** and **DATA**.
 
 ## Features
+ 0. Python Script along with libraries pillow, opencv, os, zipfile etc were used in this.
  1. It can work on any extension of Image.
  2. Also You can Convert Extension anytime.
- 3. It can Generate Multiple Certificates.
+ 3. It takes data in csv format.
+ 3. It can Generate Multiple Certificates within less time span.
+ 4. You can get output in a Folder as well in a Compressed Zip File (for ease of transfer).
 
 ## Usage
  
@@ -33,4 +36,4 @@ No License
 
 ## Acknowledgments
 
-* Inspiration : I am a executive member of Robotics Club and IEEE student Branch where our team orgainzes many events, workhshop, seminar/webinar etc and recently our club organized a event named when first time i used the Hard Coded version of this python script using pillow and zip library to automate the certificate for filling serial numbers. That's why i thought to extend this idea to generalize it so that it can be used for wide purpose.
+* Inspiration : I am a executive member of Robotics Club and IEEE student Branch where our team orgainzes many events, workhshop, seminar/webinar etc and recently our club organized a event, when first time i used the Hard Coded version of this python script with pillow and zip library to automate the certificates for filling serial numbers. That's why i thought to extend this idea with generalize so that it can be used for a wide purpose.
