@@ -32,14 +32,9 @@ This Repository is created for a Hackathon named Conception by Computer Engineer
 ## Authors
 
 * **Mr. Twinkle Sharma**
-* Teammates
-   **Saumya Shrivastava** and 
-   **Swati Singh**
-
 
 ## License
 No License
 
 ## Acknowledgments
 
-* Inspiration : I am a executive member of Robotics Club and IEEE student Branch where our team orgainzes many events, workhshop, seminar/webinar etc and recently our club organized a event, when first time i used the Hard Coded version of this python script with pillow and zip library to automate the certificates for filling serial numbers. That's why i thought to extend this idea with generalize so that it can be used for a wide purpose.
